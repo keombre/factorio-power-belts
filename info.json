@@ -1,0 +1,11 @@
+{
+  "name": "power-belts",
+  "version": "0.0.1",
+  "title": "Powered Belts",
+  "author": "keombre",
+  "contact": "",
+  "homepage": "https://github.com/keombre/factorio-power-belts",
+  "description": "Adds belts that can distribute power.",
+  "factorio_version": "0.16",
+  "dependencies": []
+}
